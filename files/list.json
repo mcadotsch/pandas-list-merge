@@ -1,0 +1,28 @@
+{
+  "Students": [
+    {
+      "name": "Tom",
+      "f_name": "Baldeck",
+      "number": 323345,
+      "class": "2a"
+    },
+    {
+      "name": "Victoria",
+      "f_name": "Storm",
+      "number": 444556,
+      "class": "2a"
+    },
+    {
+      "name": "David",
+      "f_name": "Summer",
+      "number": 908760,
+      "class": "2a"
+    },
+    {
+      "name": "Samuel",
+      "f_name": "Forester",
+      "number": 918273,
+      "class": "2a"
+    }
+  ]
+}
